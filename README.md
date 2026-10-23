@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Daniele 👋
 
-<!--
-**ddalgrande/ddalgrande** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI/ML Engineer & Technical Leader · London**
 
-Here are some ideas to get you started:
+10+ years building and shipping data and AI products.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At **[Beamery](https://beamery.com)**, I build agent workflows for workforce intelligence, fine-tune open source models, and develop LLM evaluation frameworks.
+
+Previously at **Weber Shandwick**, I built tools for knowledge management, context engineering, conversation analysis, and [AI-enhanced scenario planning](https://webershandwick.com/tech-ai-transformation/services/ai-acceleration/ai-enhanced-scenario-planning-message-testing).
+
+### Recent personal projects
+- **[Threshold](https://apps.apple.com/gb/app/threshold/id6761735920)**: a UK salary and tax optimisation app.
+- **[dining-places-skill](https://github.com/ddalgrande/dining-places-skill)**: turning saved Google Maps places into a personal dining knowledge base.
+
+**Connect:** [LinkedIn](https://linkedin.com/in/danieledalgrande) · [X](https://x.com/ddalgrande)
