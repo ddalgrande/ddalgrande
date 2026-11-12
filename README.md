@@ -10,4 +10,4 @@ At **[Beamery](https://beamery.com)**, I build agent workflows for workforce int
 - **[Threshold](https://apps.apple.com/gb/app/threshold/id6761735920)**: a UK salary and tax optimisation app.
 - **[dining-places-skill](https://github.com/ddalgrande/dining-places-skill)**: turning saved Google Maps places into a personal dining knowledge base.
 
-**Connect:** [LinkedIn](https://linkedin.com/in/danieledalgrande) · [X](https://x.com/ddalgrande)
+**Connect:** [LinkedIn](https://linkedin.com/in/danieledalgrande) · [X](https://x.com/danidalgrande)
